@@ -1,2 +1,6 @@
-# Observability-and-Alerting-Stack
-Medium: focuses on SRE skills. Good for demonstrating reliability and ops savvy. Key Technologies : Prometheus, Grafana, Alertmanager, ELK or Loki, Focus/Domain: Monitoring, Logging, SRE
+# Observability-and-Alerting-Stack Observability/Alerting Stack:                                                                                                                                                                                                              Deploy Prometheus + Grafana + Alertmanager + ELK/Loki for a sample app (could reuse Project 1 services). Show custom dashboards (e.g. CPU/Latency) and automated alerts (PagerDuty or Slack) on threshold breaches. Incorporate SLI/SLO metrics (e.g. 99.9% uptime alert). This demonstrates SRE skills (monitoring completeness, on-call readiness).                                                                       
+Medium: focuses on SRE skills. Good for demonstrating reliability and ops savvy. Key Technologies : Prometheus, Grafana, Alertmanager, ELK or Loki, Focus/Domain: Monitoring, Logging, SRE                                                                                              
+ Observability Stack	★★★☆☆	Highlights SRE/monitoring skills	Moderate (configuring stacks)
+ Observability and Alerting Stack	Monitoring,                                                                                                   
+ Logging, SRE	Prometheus, Grafana, Alertmanager, ELK or Loki	
+ Medium: focuses on SRE skills. Good for demonstrating reliability and ops savvy
